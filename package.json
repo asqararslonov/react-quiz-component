@@ -1,5 +1,5 @@
 {
-  "name": "react-quiz-component",
+  "name": "react-quiz-private",
   "version": "0.5.1",
   "description": "React Quiz Component",
   "main": "lib/Quiz.js",
