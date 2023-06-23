@@ -44,11 +44,11 @@
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.7.4"
   },
-  "author": "WONG, Wing Kam <wingkwong.code@gmail.com>",
-  "homepage": "https://github.com/wingkwong/react-quiz-component",
+  "author": "Asqar Arslonov",
+  "homepage": "https://github.com/asqararslonov/react-quiz-component/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wingkwong/react-quiz-component.git"
+    "url": "https://github.com/asqararslonov/react-quiz-component/t"
   },
   "dependencies": {
     "@webpack-cli/serve": "^1.6.1",
